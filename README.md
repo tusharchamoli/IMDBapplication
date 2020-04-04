@@ -11,6 +11,8 @@ HOW TO USE:
 3. Click on View Indian charts to know if movie has it's place in Indian charts and you can also get the description and rating of the desired movie.
 
 
+Note- Make sure you have an active internet connection
+
 
 Because IMDB works on user ratings the so to keep the ratings up to date this app will directly fetch the required chunks of data from IMDb automatically and give latest results there is no DB used in imdbgui.
 If you want to store the data of a your desired movie you can run imdbcsv.py file, this will create a csv file automatically to store data of your desired movie.
