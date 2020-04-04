@@ -14,6 +14,6 @@ HOW TO USE:
 Note- Make sure you have an active internet connection
 
 
-Because IMDB works on user ratings the so to keep the ratings up to date this app will directly fetch the required chunks of data from IMDb automatically and give latest results there is no DB used in imdbgui.
+Because IMDB works on user ratings and they may change through the course of time so to keep the ratings up to date this app will directly fetch the required chunks of data from IMDb automatically and give latest results and there is no DB used in imdbgui.
 If you want to store the data of a your desired movie you can run imdbcsv.py file, this will create a csv file automatically to store data of your desired movie.
 You can see sample of the work in the screenshot attached.
